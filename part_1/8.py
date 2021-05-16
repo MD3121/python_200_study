@@ -1,0 +1,8 @@
+# 8. 들여쓰기 개념 배우기
+
+listdata = ['a','b','c']
+if 'a' in  listdata:
+    print('a가 lidt data에 있습니다.')
+    print(listdata)
+else:
+    print('a가 listdata에 존재하지 않습니다.')
